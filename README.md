@@ -17,6 +17,8 @@ TASM, just use the TASM editor
 
 MASM
 
-
+http://jntuimplab.blogspot.com/2008/01/experiment-6.html
 
 NASM
+
+https://en.wikibooks.org/wiki/X86_Assembly/Floating_Point
